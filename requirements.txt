@@ -1,3 +1,7 @@
 streamlit
 yfinance
+pandas
 numpy
+lxml
+openpyxl
+xlsxwriter
